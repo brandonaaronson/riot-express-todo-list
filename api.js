@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 'use strict';
 const express = require('express');
 var app = module.exports = express();

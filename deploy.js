@@ -1,3 +1,8 @@
+/* eslint-disable no-undef */
+/* eslint-disable linebreak-style */
+/* eslint-disable indent */
+/* eslint-disable linebreak-style */
+/* eslint-disable no-unused-vars */
 let cmd = require('node-cmd');
 var path, nodessh, ssh, fs;
 fs = require('fs');
